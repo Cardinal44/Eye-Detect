@@ -1,2 +1,3 @@
-# Eye-Detect
-OpenCV Eye recognition
+# hackathon
+
+random opencv stuff for a hackathon
